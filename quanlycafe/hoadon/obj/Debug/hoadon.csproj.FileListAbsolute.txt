@@ -1,0 +1,15 @@
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\bin\Debug\QuanlyCoffee.mdf
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\bin\Debug\QuanlyCoffee_log.ldf
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\bin\Debug\hoadon.exe.config
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\bin\Debug\hoadon.exe
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\bin\Debug\hoadon.pdb
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\obj\Debug\hoadon.MForm.resources
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\obj\Debug\hoadon.Properties.Resources.resources
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\obj\Debug\hoadon.csproj.GenerateResource.cache
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\obj\Debug\hoadon.csproj.CoreCompileInputs.cache
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\obj\Debug\hoadon.exe
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\obj\Debug\hoadon.pdb
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\obj\Debug\hoadon.csprojAssemblyReference.cache
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\obj\Debug\hoadon.AdminForm.resources
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\obj\Debug\hoadon.LoginForm.resources
+C:\Users\PHI LONG\source\repos\hoadon\hoadon\obj\Debug\hoadon.BillInfoForm.resources
